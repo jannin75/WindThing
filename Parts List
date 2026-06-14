@@ -42,9 +42,11 @@ Electronics:
 1 x 56kOhm resistor (LM3914 input voltage divider)
 1 x 10kOhm resistor (LM3914 input voltage divider)
 1 x 2.2kOhm Resistor (LM3914 input voltage divider)
-1 x 1.2kOhm Resistor (set LM3914 current to around 10mA)
+1 x 1.2kOhm Resistor (set LM3914 current to around 10mA - or use 2k resistor to save power?)
 1 x 4.3v Zener Diode (protect LM3914 from strong winds)
 1.25mm JST Headers For Ease Of Assembly  -  https://www.amazon.com/dp/B0D1YC2DB3?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1
+1 x 1N4007 or 1N5817 (Schottky) diode inline with solar panel + wire (prevents solar panel drain at night and protects TP4056)
+Switch to select Dot or Bar mode?  
 
 
 
